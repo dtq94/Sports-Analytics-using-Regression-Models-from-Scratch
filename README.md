@@ -19,8 +19,7 @@ Jupyter Notebook
 # Usage
 
 - Clone the repository:
-git clone https://github.com/yourusername/your-project.git
-
+git clone https://github.com/dtq94/Sports-Analytics-using-Regression-Models-from-Scratch
 - Install the required dependencies:
 pip install numpy pandas
 
